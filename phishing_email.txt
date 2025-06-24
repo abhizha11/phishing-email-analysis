@@ -1,0 +1,14 @@
+Subject: Urgent: Your Netflix Account Will Be Locked!
+
+Dear Customer,
+
+We detected suspicious activity on your Netflix account. For your safety, we have temporarily locked your account.
+
+To restore access, please verify your account information at the link below:
+
+https://netflix-account-verify.com/reset
+
+Failure to verify within 24 hours will result in permanent suspension.
+
+Thank you,
+Netflix Security Team

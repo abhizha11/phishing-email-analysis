@@ -1,0 +1,7 @@
+Return-Path: <phisher@malicious.ru>
+Received: from unknown (HELO mail.netflix-support.com) (208.100.26.251)
+From: "Netflix Support" <security@netflix-support.com>
+To: user@example.com
+Subject: Urgent: Your Netflix Account Will Be Locked!
+Reply-To: netflix@secure-helpdesk.com
+X-Mailer: PHP/7.4.1
