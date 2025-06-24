@@ -47,7 +47,7 @@ This repository contains an analysis of a sample phishing email as part of a cyb
 📝 How to Use
 
 1. Clone or download the repo.
-2. Open `Phishing_Email_Analysis_Report_Editable.docx`.
+2. Open `phishing-email-analysis.
 3. Review the email traits listed in `README.md` or the PDF.
 
 ---
